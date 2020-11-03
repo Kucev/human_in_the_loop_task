@@ -1,0 +1,31 @@
+INPUT:image	INPUT:predict	GOLDEN:output	HINT:text	TASK:id	TASK:overlap	TASK:remaining_overlap
+https://storage.yandexcloud.net/plates/obuch/311_м576су10_м576су12_0.9336397647857666.jpg	М576СУ12	М576СУ10	М576СУ10	0001088b41--5f876e05eb7d88511c3adfb2	infinite	infinite
+https://storage.yandexcloud.net/plates/obuch/145_хе89877_к314ок777_0.9989903569221495.jpg	К314ОК777	ХЕ89877	ХЕ89877	0001088b41--5f876e05eb7d88511c3adfb1	infinite	infinite
+https://storage.yandexcloud.net/plates/obuch/4342_в899нв49_в899нв49_0.9968485832214355.jpg	В899НВ49	В899НВ49	В899НВ49	0001088b41--5f876e05eb7d88511c3adfb0	infinite	infinite
+https://storage.yandexcloud.net/plates/obuch/341_с384ем102_с384ем102_0.9963531494140624.jpg	С384ЕМ102	С384ЕМ102	С384ЕМ102	0001088b41--5f876e05eb7d88511c3adfaf	infinite	infinite
+https://storage.yandexcloud.net/plates/obuch/459_7697ев66_nan_nan.jpg		7697ЕВ66	7697ЕВ66	0001088b41--5f876e05eb7d88511c3adfae	infinite	infinite
+https://storage.yandexcloud.net/plates/obuch/177_с906ен02_с906ен02_0.9625037312507628.jpg	С906ЕН02	С906ЕН02	С906ЕН02	0001088b41--5f876e05eb7d88511c3adfad	infinite	infinite
+https://storage.yandexcloud.net/plates/obuch/395_у054ос66_у054ос6_0.5583515763282776.jpg	У054ОС6	У054ОС66	У054ОС66	0001088b41--5f876e05eb7d88511c3adfac	infinite	infinite
+https://storage.yandexcloud.net/plates/obuch/78_ос096м77_сс096м77_0.7352727651596069.jpg	СС096М77	ОС096М77	ОС096М77	0001088b41--5f876e05eb7d88511c3adfab	infinite	infinite
+https://storage.yandexcloud.net/plates/obuch/3621_о149ет46_о149ет46_0.7880728840827942.jpg	О149ЕТ46	О149ЕТ46	О149ЕТ46	0001088b41--5f876e05eb7d88511c3adfaa	infinite	infinite
+https://storage.yandexcloud.net/plates/obuch/977_р953ен70_р953ен70_0.6299012303352356.jpg	Р953ЕН70	Р953ЕН70	Р953ЕН70	0001088b41--5f876e05eb7d88511c3adfa9	infinite	infinite
+https://storage.yandexcloud.net/plates/obuch/458_м555кк02_м555кк2_0.8569964170455933.jpg	М555КК2	М555КК02	М555КК02	0001088b41--5f876e05eb7d88511c3adfa8	infinite	infinite
+https://storage.yandexcloud.net/plates/obuch/438_р080рв199_р080рв193_0.8654503226280212.jpg	Р080РВ193	Р080РВ199	Р080РВ199	0001088b41--5f876e05eb7d88511c3adfa7	infinite	infinite
+https://storage.yandexcloud.net/plates/obuch/1781_к060см54_к060см54_0.9988060593605042.jpg	К060СМ54	К060СМ54	К060СМ54	0001088b41--5f876e05eb7d88511c3adfa6	infinite	infinite
+https://storage.yandexcloud.net/plates/obuch/23_о274му152_о274у152_0.6557890176773071.jpg	О274У152	О274МУ152	О274МУ152	0001088b41--5f876e05eb7d88511c3adfa5	infinite	infinite
+https://storage.yandexcloud.net/plates/obuch/2166_а383см22_а383см22_0.9833534359931946.jpg	А383СМ22	А383СМ22	А383СМ22	0001088b41--5f876e05eb7d88511c3adfa4	infinite	infinite
+https://storage.yandexcloud.net/plates/obuch/1591_а449ва74_а449ва74_0.9942435026168824.jpg	А449ВА74	А449ВА74	А449ВА74	0001088b41--5f876e05eb7d88511c3adfa3	infinite	infinite
+https://storage.yandexcloud.net/plates/obuch/29_м505вк37_н505вк37_0.9951722621917723.jpg	Н505ВК37	М505ВК37	М505ВК37	0001088b41--5f876e05eb7d88511c3adfa2	infinite	infinite
+https://storage.yandexcloud.net/plates/obuch/235_т539мв51_т539мв57_0.6798911094665527.jpg	Т539МВ57	Т539МВ51	Т539МВ51	0001088b41--5f876e05eb7d88511c3adfa1	infinite	infinite
+https://storage.yandexcloud.net/plates/obuch/149_т028оо93_т028оо93_0.9888429045677184.jpg	Т028ОО93	Т028ОО93	Т028ОО93	0001088b41--5f876e05eb7d88511c3adfa0	infinite	infinite
+https://storage.yandexcloud.net/plates/obuch/486_т426кт69_р426кт69_0.9816190600395204.jpg	Р426КТ69	Т426КТ69	Т426КТ69	0001088b41--5f876e05eb7d88511c3adf9f	infinite	infinite
+https://storage.yandexcloud.net/plates/obuch/497_152d03577_nan_nan.jpg		152D03577	152D03577	0001088b41--5f876e05eb7d88511c3adf9e	infinite	infinite
+https://storage.yandexcloud.net/plates/obuch/48_е190ма82_nan_nan.jpg		Е190МА82	Е190МА82	0001088b41--5f876e05eb7d88511c3adf9d	infinite	infinite
+https://storage.yandexcloud.net/plates/obuch/2593_е138мм716_е138мм716_0.927745282649994.jpg	Е138ММ716	Е138ММ716	Е138ММ716	0001088b41--5f876e05eb7d88511c3adf9c	infinite	infinite
+https://storage.yandexcloud.net/plates/obuch/165_н417вм32_н417вм32_0.9387097358703612.jpg	Н417ВМ32	Н417ВМ32	Н417ВМ32	0001088b41--5f876e05eb7d88511c3adf9b	infinite	infinite
+https://storage.yandexcloud.net/plates/obuch/455_оа02877_nan_nan.jpg		ОА02877	ОА02877	0001088b41--5f876e05eb7d88511c3adf9a	infinite	infinite
+https://storage.yandexcloud.net/plates/obuch/1145_на18477_на18477_0.8968784809112549.jpg	НА18477	НА18477	НА18477	0001088b41--5f876e05eb7d88511c3adf99	infinite	infinite
+https://storage.yandexcloud.net/plates/obuch/389_а958хх763_958хх763_0.8646606802940369.jpg	958ХХ763	А958ХХ763	А958ХХ763	0001088b41--5f876e05eb7d88511c3adf98	infinite	infinite
+https://storage.yandexcloud.net/plates/obuch/488_н759уо46_а759уо4_0.8976725339889526.jpg	А759УО4	Н759УО46	Н759УО46	0001088b41--5f876e05eb7d88511c3adf97	infinite	infinite
+https://storage.yandexcloud.net/plates/obuch/491_у012ку45_у012ку5_0.8961116075515747.jpg	У012КУ5	У012КУ45	У012КУ45	0001088b41--5f876e05eb7d88511c3adf96	infinite	infinite
+https://storage.yandexcloud.net/plates/obuch/93_ао083736_а08373_0.9232092499732972.jpg	А08373	АО083736	АО083736	0001088b41--5f876e05eb7d88511c3adf95	infinite	infinite

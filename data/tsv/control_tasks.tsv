@@ -1,0 +1,51 @@
+INPUT:image	INPUT:predict	GOLDEN:output
+https://storage.yandexcloud.net/plates/control_tasks/669_4818ае76_nan_nan.jpg		4818АЕ76
+https://storage.yandexcloud.net/plates/control_tasks/1841_м615ро178_615ро178_0.978614628314972.jpg	615РО178	М615РО178
+https://storage.yandexcloud.net/plates/control_tasks/516_ас617836_ас6178вн_0.8307064771652222.jpg	АС6178ВН	АС617836
+https://storage.yandexcloud.net/plates/control_tasks/2079_с222рк750_с222ру750_0.8201933503150941.jpg	С222РУ750	С222РК750
+https://storage.yandexcloud.net/plates/control_tasks/1838_а701ое82_с353сс1_0.9640516042709352.jpg	С353СС1	А701ОЕ82
+https://storage.yandexcloud.net/plates/control_tasks/1171_а159346_nan_nan.jpg		А159346
+https://storage.yandexcloud.net/plates/control_tasks/619_3884ам54_nan_nan.jpg		3884АМ54
+https://storage.yandexcloud.net/plates/control_tasks/741_ее34777_nan_nan.jpg		ЕЕ34777
+https://storage.yandexcloud.net/plates/control_tasks/721_у941нн124_nan_nan.jpg		У941НН124
+https://storage.yandexcloud.net/plates/control_tasks/1366_м019вт38_мм019вт38_0.5281705856323242.jpg	ММ019ВТ38	М019ВТ38
+https://storage.yandexcloud.net/plates/control_tasks/1324_у400нк777_у400ак777_0.9658503532409668.jpg	У400АК777	У400НК777
+https://storage.yandexcloud.net/plates/control_tasks/1819_т984ма45_т745ооа0_0.7062792181968689.jpg	Т745ООА0	Т984МА45
+https://storage.yandexcloud.net/plates/control_tasks/2037_т444та66_т444та6_0.8459566235542297.jpg	Т444ТА6	Т444ТА66
+https://storage.yandexcloud.net/plates/control_tasks/570_вв815366_о212ве96_0.9820744395256042.jpg	О212ВЕ96	ВВ815366
+https://storage.yandexcloud.net/plates/control_tasks/1599_вв865878_в8865в78_0.5032516717910767.jpg	В8865В78	ВВ865878
+https://storage.yandexcloud.net/plates/control_tasks/1509_е834вр134_е834вн134_0.8688728213310242.jpg	Е834ВН134	Е834ВР134
+https://storage.yandexcloud.net/plates/control_tasks/546_ее638752_ее638762_0.8443934917449951.jpg	ЕЕ638762	ЕЕ638752
+https://storage.yandexcloud.net/plates/control_tasks/974_м099вм142_н099вм142_0.7037609219551086.jpg	Н099ВМ142	М099ВМ142
+https://storage.yandexcloud.net/plates/control_tasks/1667_р007сс102_а878ру716_0.7115820646286011.jpg	А878РУ716	Р007СС102
+https://storage.yandexcloud.net/plates/control_tasks/1856_ем909377_nan_nan.jpg		ЕМ909377
+https://storage.yandexcloud.net/plates/control_tasks/1555_в851ер716_в851ер76_0.8302310705184937.jpg	В851ЕР76	В851ЕР716
+https://storage.yandexcloud.net/plates/control_tasks/2082_х696рв197_а696рв197_0.63592529296875.jpg	А696РВ197	Х696РВ197
+https://storage.yandexcloud.net/plates/control_tasks/1824_а252аа152_4252аа62_0.995346188545227.jpg	4252АА62	А252АА152
+https://storage.yandexcloud.net/plates/control_tasks/1314_в966хк02_в966хк002_0.953906774520874.jpg	В966ХК002	В966ХК02
+https://storage.yandexcloud.net/plates/control_tasks/2006_153d56777_nan_nan.jpg		153D56777
+https://storage.yandexcloud.net/plates/control_tasks/1902_с003оа102_nan_nan.jpg		С003ОА102
+https://storage.yandexcloud.net/plates/control_tasks/549_в409нт178_с274во98_0.6908587217330933.jpg	С274ВО98	В409НТ178
+https://storage.yandexcloud.net/plates/control_tasks/992_а031нс01_х871тт17_0.5963855981826782.jpg	Х871ТТ17	А031НС01
+https://storage.yandexcloud.net/plates/control_tasks/1898_о047мм02_о047мм002_0.9401317238807678.jpg	О047ММ002	О047ММ02
+https://storage.yandexcloud.net/plates/control_tasks/1438_у542вт136_м542вт136_0.994966685771942.jpg	М542ВТ136	У542ВТ136
+https://storage.yandexcloud.net/plates/control_tasks/285_хн34277_хн342r7_0.9931712150573729.jpg	ХН342R7	ХН34277
+https://storage.yandexcloud.net/plates/control_tasks/651_а790сс38_nan_nan.jpg		А790СС38
+https://storage.yandexcloud.net/plates/control_tasks/1533_у843се102_у843се12_0.8247734904289246.jpg	У843СЕ12	У843СЕ102
+https://storage.yandexcloud.net/plates/control_tasks/1615_ав018468_ав0184на_0.6517964601516724.jpg	АВ0184НА	АВ018468
+https://storage.yandexcloud.net/plates/control_tasks/1852_аа828514_а828514_0.9872455000877379.jpg	А828514	АА828514
+https://storage.yandexcloud.net/plates/control_tasks/2002_ва03852_nan_nan.jpg		ВА03852
+https://storage.yandexcloud.net/plates/control_tasks/539_о135мр39_о135мр31_0.97598397731781.jpg	О135МР31	О135МР39
+https://storage.yandexcloud.net/plates/control_tasks/694_ве08499_ве08к99_0.9381143450737.jpg	ВЕ08К99	ВЕ08499
+https://storage.yandexcloud.net/plates/control_tasks/996_н859тк32_н059тк32_0.5621423721313477.jpg	Н059ТК32	Н859ТК32
+https://storage.yandexcloud.net/plates/control_tasks/1797_к742нв799_к742нв99_0.9851941466331482.jpg	К742НВ99	К742НВ799
+https://storage.yandexcloud.net/plates/control_tasks/1679_к632ве13_к632ве18_0.6240661144256592.jpg	К632ВЕ18	К632ВЕ13
+https://storage.yandexcloud.net/plates/control_tasks/727_о738мн63_nan_nan.jpg		О738МН63
+https://storage.yandexcloud.net/plates/control_tasks/1866_р628нс150_р628кс150_0.8091638088226318.jpg	Р628КС150	Р628НС150
+https://storage.yandexcloud.net/plates/control_tasks/1672_ее030226_ее03027_0.8331372737884521.jpg	ЕЕ03027	ЕЕ030226
+https://storage.yandexcloud.net/plates/control_tasks/1950_м578то76_н578то76_0.6418213844299316.jpg	Н578ТО76	М578ТО76
+https://storage.yandexcloud.net/plates/control_tasks/1935_н544он75_nan_nan.jpg		Н544ОН75
+https://storage.yandexcloud.net/plates/control_tasks/2023_ак44435_т679ас35_0.9924693703651428.jpg	Т679АС35	АК44435
+https://storage.yandexcloud.net/plates/control_tasks/947_4010ао50_nan_nan.jpg		4010АО50
+https://storage.yandexcloud.net/plates/control_tasks/729_м224ур75_м224ур74_0.5835669040679932.jpg	М224УР74	М224УР75
+https://storage.yandexcloud.net/plates/control_tasks/1767_т452кв51_т452ко51_0.9733715653419496.jpg	Т452КО51	Т452КВ51
