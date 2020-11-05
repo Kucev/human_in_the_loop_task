@@ -1,4 +1,4 @@
-id,url,predict,accuracy
+id,url,predict,confidence
 17297.jpg,https://storage.yandexcloud.net/plates/17297.jpg,К071СО82,0.9999352097511292
 64135.jpg,https://storage.yandexcloud.net/plates/64135.jpg,АМ479568,0.9927880764007568
 875.jpg,https://storage.yandexcloud.net/plates/875.jpg,,
