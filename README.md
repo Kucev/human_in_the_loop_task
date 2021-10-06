@@ -3,6 +3,8 @@
 
 [Семинар (осень 2020)](https://youtu.be/mUI-I74_ydU)
 
+[Семинар и лекция (осень 2021)](https://youtu.be/qs25U8svSMI)
+
 ## Домашнее задание
 
 Реализовать концепции:
@@ -43,7 +45,7 @@
 Ссылка на github с кодом: [github.com/Kucev/human_in_the_loop_task](https://github.com/Kucev/human_in_the_loop_task)
 
 ## Варианты
-У каждого студента свой [вариант](https://docs.google.com/spreadsheets/d/18Vajz7K0RPoo8RKmUSsIt7tOvUj4A7cPQ6FpxUwECDA/edit#gid=173458001) со своими изображениями.
+У каждого студента свой [вариант](https://docs.google.com/spreadsheets/d/18Vajz7K0RPoo8RKmUSsIt7tOvUj4A7cPQ6FpxUwECDA/edit#gid=208995599) со своими изображениями.
 
 ## Формат сдачи работы
 
@@ -68,11 +70,11 @@
 
 Проверка ваших работ будет проходить в полуавтоматическом режиме, поэтому **крайне важно** назвать правильно файл с ответами.
 
-Формат названия файла: `ВАРИАНТ_ИМЯ_ШАД/ВШЭ/CSC_answer.csv`.
+Формат названия файла: `ВАРИАНТ_ИМЯ_ШАД/ВШЭ/CSC/МФТИ_answer.csv`.
 
 Пример: `38_Александра Погребная_ШАД_answer.csv`
 
-`ИМЯ` желательно указать так же, как оно записано в таблице с [вариантами](https://docs.google.com/spreadsheets/d/18Vajz7K0RPoo8RKmUSsIt7tOvUj4A7cPQ6FpxUwECDA/edit#gid=173458001).
+`ИМЯ` желательно указать так же, как оно записано в таблице с [вариантами](https://docs.google.com/spreadsheets/d/18Vajz7K0RPoo8RKmUSsIt7tOvUj4A7cPQ6FpxUwECDA/edit#gid=208995599).
 
 ### Куда присылать свои работы
 Студенты ШАДа присылают работы в LMS
@@ -80,3 +82,5 @@
 Студенты ВШЭ присылают работы в Anytask
 
 Студенты CSC присылают работы в LMS
+
+Студенты МФТИ присылают работы в [ЛС](https://t.me/roman_kucev) в Телеграм
